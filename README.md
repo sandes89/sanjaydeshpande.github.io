@@ -18,3 +18,4 @@ For detailed first-time setup, local Git commands, future content updates, and t
 - `script.js` only enhances the mobile navigation; the main content works without JavaScript.
 
 The page links to the supplied LinkedIn and Google Scholar profiles. Publication and biography details are based on the supplied CV.
+# sanjaydeshpande.github.io
